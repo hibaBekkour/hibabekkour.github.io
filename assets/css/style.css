@@ -376,8 +376,8 @@ main {
   background: var(--bg-gradient-onyx);
   border-radius: 30px;
    display: flex;
-   padding-top : 5%;
-  padding-bottom: 5%;
+  padding-top : 1%;
+  padding-bottom: 1%;
    gap: 25px;
    
 }
