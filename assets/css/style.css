@@ -369,14 +369,19 @@ main {
 
 
 .avatar-box {
-  background: var(--bg-gradient-onyx);
-  border-radius: 50px;
+   width:  auto;
+  height: 100px;
 }
 .avatar-box2 {
   background: var(--bg-gradient-onyx);
   border-radius: 30px;
    display: flex;
-  gap: 15px;
+   gap: 25px;
+   
+}
+
+.about-me {
+  padding: 15px;
 }
 
 
