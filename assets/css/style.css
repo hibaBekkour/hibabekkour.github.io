@@ -327,6 +327,8 @@ main {
   background: var(--bg-gradient-yellow-1);
   background-clip: text;
   -webkit-background-clip: text;
+  color: var( --vegas-gold);
+
   
 }
 
