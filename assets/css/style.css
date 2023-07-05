@@ -291,7 +291,8 @@ main {
    width:  auto;
   height: 100px;
   transform: matrix(0,1,1,0,0,0);
-  border: 10px solid #84d3cc;
+  
+  overflow: hidden;
 
 }
 .avatar-box2 {
@@ -1267,12 +1268,16 @@ textarea.form-input::-Web design & developmentkit-resizer { display: none; }
   .sidebar-info { gap: 25px; }
 
   .avatar-box { border-radius: 30px; 
-    transform: matrix(0,1,1,0,0,0);
-    border: 10px solid #84d3cc;}
+    transform: matrix(0,1,1,0,0,0);}
 
-  .avatar-box img { width: 120px; 
-    transform: matrix(0,1,1,0,0,0);
-    border: 10px solid #84d3cc;}
+  .avatar-box img { 
+    width: 120px; 
+    transition: scale 400ms;
+  }
+
+  .avatar-box:hover img{
+    scale: 120%;
+  }
 
   .info-content .name { margin-bottom: 15px; }
 
