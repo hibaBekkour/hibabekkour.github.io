@@ -323,8 +323,7 @@ main {
   background: var(--bg-gradient-yellow-1);
   background-clip: text;
   -webkit-background-clip: text;
-  color: transparent;
-  transition: var(--transition-1);
+  
 }
 
 .info-content .title {
