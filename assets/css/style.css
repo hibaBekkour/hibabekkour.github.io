@@ -290,7 +290,7 @@ main {
 .avatar-box {
    width:  auto;
   height: 100px;
-  transform: matrix(0,1,1,0,0,0);
+  
   
   overflow: hidden;
 
@@ -1268,7 +1268,7 @@ textarea.form-input::-Web design & developmentkit-resizer { display: none; }
   .sidebar-info { gap: 25px; }
 
   .avatar-box { border-radius: 30px; 
-    transform: matrix(0,1,1,0,0,0);}
+    }
 
   .avatar-box img { 
     width: 120px; 
