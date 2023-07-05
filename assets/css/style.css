@@ -1266,9 +1266,13 @@ textarea.form-input::-Web design & developmentkit-resizer { display: none; }
 
   .sidebar-info { gap: 25px; }
 
-  .avatar-box { border-radius: 30px; }
+  .avatar-box { border-radius: 30px; 
+    transform: matrix(0,1,1,0,0,0);
+    border: 10px solid #84d3cc;}
 
-  .avatar-box img { width: 120px; }
+  .avatar-box img { width: 120px; 
+    transform: matrix(0,1,1,0,0,0);
+    border: 10px solid #84d3cc;}
 
   .info-content .name { margin-bottom: 15px; }
 
