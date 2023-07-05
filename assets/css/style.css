@@ -290,6 +290,9 @@ main {
 .avatar-box {
    width:  auto;
   height: 100px;
+  transform: matrix(0,1,1,0,0,0);
+  border: 10px solid #84d3cc;
+
 }
 .avatar-box2 {
   background: var(--bg-gradient-onyx);
@@ -636,8 +639,7 @@ main {
   border-radius: 14px;
   margin-bottom: 15px;
   box-shadow: var(--shadow-2);
-  transform: matrix(0,1,1,0,0,0);
-  border: 10px solid #84d3cc;
+  
 
 }
 
