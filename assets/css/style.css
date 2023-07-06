@@ -329,14 +329,9 @@ main {
   background: var(--bg-gradient-yellow-1);
   background-clip: text;
   -webkit-background-clip: text;
-<<<<<<< HEAD
   color: var( --vegas-gold);
 
   
-=======
-  color: transparent;
-  transition: var(--transition-1);
->>>>>>> parent of ad9de54 (not transparent)
 }
 
 =======
