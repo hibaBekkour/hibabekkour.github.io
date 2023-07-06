@@ -324,6 +324,7 @@ main {
 }
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 .info-content .name:hover {
   background: var(--bg-gradient-yellow-1);
   background-clip: text;
@@ -333,6 +334,8 @@ main {
   
 }
 
+=======
+>>>>>>> parent of a1a6d63 (hover)
 =======
 >>>>>>> parent of a1a6d63 (hover)
 .info-content .title {
@@ -646,8 +649,11 @@ main {
   margin-bottom: 15px;
   box-shadow: var(--shadow-2);
 <<<<<<< HEAD
+<<<<<<< HEAD
   
 
+=======
+>>>>>>> parent of a1a6d63 (hover)
 =======
 >>>>>>> parent of a1a6d63 (hover)
 }
