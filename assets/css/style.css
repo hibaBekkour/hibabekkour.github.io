@@ -323,18 +323,6 @@ main {
   border-radius: 15px;
 }
 
-<<<<<<< HEAD
-.info-content .name:hover {
-  background: var(--bg-gradient-yellow-1);
-  background-clip: text;
-  -webkit-background-clip: text;
-  color: var( --vegas-gold);
-
-  
-}
-
-=======
->>>>>>> parent of a1a6d63 (hover)
 .info-content .title {
   color: var(--white-1);
   background: var(--onyx);
@@ -645,11 +633,8 @@ main {
   border-radius: 14px;
   margin-bottom: 15px;
   box-shadow: var(--shadow-2);
-<<<<<<< HEAD
   
 
-=======
->>>>>>> parent of a1a6d63 (hover)
 }
 
 .modal-img-wrapper > img { display: none; }
