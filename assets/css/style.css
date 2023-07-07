@@ -1277,13 +1277,13 @@ textarea.form-input::-Web design & developmentkit-resizer { display: none; }
   .avatar-box img { 
     width: 120px; 
     transition: scale 400ms;
-    filter: drop-shadow(10px 8px 6px #949494);
+    filter: drop-shadow(0px 8px 6px #949494);
 
   }
 
   .avatar-box:hover img{
     scale: 120%;
-    filter: drop-shadow(13px 12px 10px #CE5A5A);
+    filter: drop-shadow(0px 12px 10px #CE5A5A);
   }
 
   .info-content .name { margin-bottom: 15px; }
